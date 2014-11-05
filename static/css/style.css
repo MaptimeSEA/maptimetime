@@ -1,0 +1,14 @@
+* {
+  box-sizing:border-box;  
+  -moz-box-sizing:border-box; 
+  -webkit-box-sizing:border-box;
+}
+body { background-color:#f2f2f2; }
+#events {
+  display:block;
+  margin:30px auto;
+  width:600px;
+}
+.event {
+  margin-bottom:20px;
+}
